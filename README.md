@@ -1,3 +1,5 @@
+To run the code: node Main.js in your cmd or powershell.
+
 # Mini_Connector_Project
 
 For this model of a mini connector, I used Mqtt as a communication protocol.
