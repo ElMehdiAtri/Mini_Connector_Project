@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
