@@ -4,7 +4,7 @@ To run the code: node Main.js in your cmd or powershell.
 
 For this model of a mini connector, I used Mqtt as a communication protocol.
 As for the funtion of the main code, it asks the user to input as many devices as he wants with the characteristics of each devices.
-Then these devices are saved into an array.
+Then these devices are saved into an array of Objects.
 
 Each device is caracterized with the following characteristics:
 
